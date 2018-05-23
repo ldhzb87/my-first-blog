@@ -7,5 +7,14 @@
       <auth-required>false</auth-required>
       <introspection-schemas>*:main</introspection-schemas>
     </data-source>
+    <data-source name="postgres@localhost" uuid="429d9eca-fb3d-47e0-a2e8-3ba33780d673">
+      <database-info product="PostgreSQL" version="9.6.9" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.1.1">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>postgres</user-name>
+      <introspection-schemas>postgres:public</introspection-schemas>
+    </data-source>
   </component>
 </project>

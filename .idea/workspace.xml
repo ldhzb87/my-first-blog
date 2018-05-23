@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="216ba85d-18e4-4835-a59e-c39715e297ed" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/study/settings.py" afterPath="$PROJECT_DIR$/study/settings.py" />
     </list>
@@ -61,8 +61,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/study/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+            <state relative-caret-position="343">
+              <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -411,7 +411,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527055497697</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="class postgresql로 교체">
+      <created>1527059205106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527059205106</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView">
@@ -463,7 +470,8 @@
     <MESSAGE value="class draft remove 추가" />
     <MESSAGE value="class login, logout 추가" />
     <MESSAGE value="class comment 기능 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="class comment 기능 추가" />
+    <MESSAGE value="class postgresql로 교체" />
+    <option name="LAST_COMMIT_MESSAGE" value="class postgresql로 교체" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -898,8 +906,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/study/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="73" column="0" lean-forward="true" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+        <state relative-caret-position="343">
+          <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
           <folding />
         </state>
       </provider>
